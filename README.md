@@ -5,6 +5,10 @@ Both [PhoneGap](http://phonegap.com/) and [Apache Cordova](http://cordova.apache
 
 -----
 
+###New Feature : Unpin play services versions from 9.8.0 to +
+
+-----
+
 ###Quick install
 
 Before you install, make sure you've read the [instructions](https://github.com/mapsplugin/cordova-plugin-googlemaps/wiki/Installation)
